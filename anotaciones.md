@@ -24,17 +24,17 @@ yarn create vite .
 yarn
 ```
 
-## Levantar el servidor de desarrollo
-
-```sh
-yarn dev
-```
-
 ## Subir al hosting, tengo que hacer un build
 Para que me genere la carpeta de distribuicion. Con los archivos listos para subir al hosting.
 
 ```sh
 yarn build
+```
+
+## Levantar el servidor de desarrollo
+
+```sh
+yarn dev
 ```
 
 ## Agregamos Bootstrap al proyecto
